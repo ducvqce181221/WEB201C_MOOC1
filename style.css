@@ -1,0 +1,13 @@
+.content p {
+    font-size: 19px;
+}
+
+#center {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#listJobs ul {
+    font-size: 18px;
+}
